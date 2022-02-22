@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several testimonies given forth by Jeffery Bullock against that evil spirit by which he had been led to oppose the truth and people of God, both by word, writing, and printing books, for several years last past.</title>
+            <author>Bullock, Jeffery.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30074</idno>
+            <idno type="STC">Wing B5426</idno>
+            <idno type="STC">ESTC R33263</idno>
+            <idno type="EEBO-CITATION">13117384</idno>
+            <idno type="OCLC">ocm 13117384</idno>
+            <idno type="VID">97764</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30074)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97764)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1545:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several testimonies given forth by Jeffery Bullock against that evil spirit by which he had been led to oppose the truth and people of God, both by word, writing, and printing books, for several years last past.</title>
+                  <author>Bullock, Jeffery.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated of publication suggested by Wing.</note>
+                  <note>"Sudbury, the 25th of the 8th month, 1686."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:97764:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 28 -->
+            <head>SEVERAL TESTIMONIES Given forth by Jeffery Bullock, Againſt that Evil Spirit by which he had been led to oppoſe the Truth and People of God, both by Word, Writing, and Printed Books, for ſeveral Years laſt paſt.</head>
+            <opener>
+               <dateline>Sudbury, <date>the 25<hi rend="sup">th.</hi> of the 8<hi rend="sup">th.</hi> Month. 1686.</date>
+               </dateline>
+            </opener>
+            <p>WHereas in an Hour of Darkneſs and Temptation, I have been drawn forth by the Enemy of my Soul, that hath led me out in envy, enmity, and great wilfulneſs, through my departing from the Holy Light and pure Witneſs of God in my own Conſcience; to Write and cauſe to be Printed and Publiſhed di<g ref="char:EOLhyphen"/>vers Books and Papers, which were unſound, pernicious, and con<g ref="char:EOLhyphen"/>trary to Truth, in reproach of God's Truth and People, and their holy way and order, (into which Truth hath led and ſetled them;) and not only ſo, but have alſo defamed the Children of Truth, and enviouſly oppoſed them, not only by writing, but publickly in meet<g ref="char:EOLhyphen"/>ings, and by retaining the council of the Adverſary of my Soul, was carried on further ſo that ungodly act in Wilfulneſs and Stubborneſs, to break that Holy Command of <hi>Chriſt,</hi> who ſaith, <hi>Swear not <gap reason="illegible: bleedthrough" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all.</hi> Yet contradictory to the Witneſs of God in my own Conſcience, I did Swear; and now after all this my wicked doings the pure Wit<g ref="char:EOLhyphen"/>neſs of God is riſen, and hath ſet all theſe my Sins in order before
+<pb n="2" facs="tcp:97764:2"/>
+               <!-- PDF PAGE 29 -->
+me, and Sin now is my Souls burthen: Wherefore, that my Soul may find caſe and favour and forgiveneſs of God, in Humility of Heart, and Contriteneſs of Soul, do condemn all theſe my wicked works, and that it may be clearly and particularly evidenced, I con<g ref="char:EOLhyphen"/>demn by name all my ſaid Books, <hi>viz.</hi> My Book Intituled, <hi>Anti<g ref="char:EOLhyphen"/>chriſt's Transformations within, diſcovered by the Light within.</hi> My Book Intituled, <hi>One Blow more againſt Anti-Chriſts Miniſters,</hi> &amp;c. Be<g ref="char:EOLhyphen"/>ing a reply to <hi>Giles Barnardiſton</hi>'s anſwer to my firſt Book. Alſo my Book Intituled, <hi>A Teſtimony againſt the Sixty Six Judges, called</hi> Qua<g ref="char:EOLhyphen"/>kers, <hi>that wrote an Epiſtle againſt</hi> John Story, <hi>and</hi> John Wilkinſon. Alſo my Book called <hi>Groſs Errors detected, or many of the Doctrines of the leading</hi> Quakers <hi>diſowned.</hi> All which Books are for Judgment. Moreover, I deſire that all ſuch that have read any or all of the ſaid Books, that you take heed to your ſelves, that nothing in them do you hurt, for certainly it was the dark and evil Spirit that guided me therein, to write and publiſh them, by which I did diſpite to the Spi<g ref="char:EOLhyphen"/>rit of Grace therein, and I deſire that all that have any of the ſaid Books, that you deſtroy them as I have done them in my own poſ<g ref="char:EOLhyphen"/>ſeſſion, that they may all be oblitterated, and that they may never be ſpoken of, or remembred any more.</p>
+            <p>The hand of the Lord lieth heavy upon me for theſe things, there<g ref="char:EOLhyphen"/>fore let all take warning by me, that you may be kept out of the ſnares and baits of the Devil, but as every one keeps to the Light, and are obedient to God's Witneſs, and Holy Grace placed in their hearts, it will preſerve them in way of Truth and Uprightneſs for ever.</p>
+            <p>Subſcribed with my own hand, the day and year above-written.</p>
+            <closer>
+               <signed>Jeffery Bullock.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POSCRIPT.</head>
+            <p>WHatever I have ſpoken, or cauſed to be Printed againſt <hi>George Fox,</hi> or the Order that is amongſt thoſe called <hi>Quakers,</hi> I do diſown it.</p>
+            <p>And as to what I have held forth, that the Soul is mortal, and that
+<pb n="3" facs="tcp:97764:2"/>
+               <!-- PDF PAGE 29 -->
+there is no future ſtate. I do utterly diſown the ſame, believing it came from the ſame Power of Darkneſs, that brought forth the fruits above-mentioned that I have teſtified againſt.</p>
+            <closer>
+               <signed>Jeffery Bullock.</signed>
+
+            </closer>
+            <postscript>
+               <p>Subſcribed above and here, in the preſence of us.</p>
+               <list>
+                  <item>
+                     <hi>Mary Bullock</hi> his Wife.</item>
+                  <item>
+                     <hi>Johannah Kemp.</hi>
+                  </item>
+                  <item>
+                     <hi>John Baker.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Clark.</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Waldegrave.</hi>
+                  </item>
+                  <item>
+                     <hi>Ezek. Sheldrick.</hi>
+                  </item>
+                  <item>
+                     <hi>Arthur Cotten.</hi>
+                  </item>
+                  <item>
+                     <hi>John Furly.</hi>
+                  </item>
+               </list>
+               <p>The contents of this Paper, and his Name written with his own hand, was owned ſince, before <hi>Anne Bullock</hi> his Daughter.</p>
+            </postscript>
+            <postscript>
+               <opener>
+                  <dateline>Sudbury, <date>October 4. 1686.</date>
+                  </dateline>
+               </opener>
+               <p>This to be delivered to the Court.</p>
+               <p>In my coming unto the Hall and Swearing, I grieved the Spirit of God, and did deſpite to Chriſt the Light, and ſinn'd againſt the Spirit of Grace, and I would have come my ſelf and a borne my Teſtimony againſt the things, but the day of God's Vengeance is upon me, and I have loſt my natural ſtrength, that I fall in going about the Houſe, from me,</p>
+               <closer>
+                  <signed>Jeffery Bullock.</signed>
+               </closer>
+               <postscript>
+                  <list>
+                     <item>Jacob Lea.</item>
+                     <item>John Fowler.</item>
+                     <item>Andrew Bates.</item>
+                     <item>John Baker.</item>
+                     <item>Jonathan Chriſtmaſs.</item>
+                     <item>Iſrael Robards.</item>
+                     <item>Ezekiel Sheldrick.</item>
+                  </list>
+                  <p>And to be at Unity with the Light within, is more to be valued than Ten Thouſands Worlds;</p>
+               </postscript>
+            </postscript>
+         </div>
+         <div type="postscript">
+            <pb n="4" facs="tcp:97764:3"/>
+            <!-- PDF PAGE 30 -->
+            <head>POSCRIPT.</head>
+            <p>THough I have condemned my ſelf for the act of Swearing, it be<g ref="char:EOLhyphen"/>ing contrary to the command of <hi>Chriſt,</hi> yet deny not my Al<g ref="char:EOLhyphen"/>legiance to the King, but do own the ſame.</p>
+            <closer>
+               <signed>J. B.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Jeffery Bullock</hi> having ſent theſe Papers to us, and deſired they might be made publick for the eaſing his troubled Conſcience, and clearing Friends and Truth, we have permitted them accordingly to be Print<g ref="char:EOLhyphen"/>ed; and though he hath thus far cleared the Truth, the hand of the Lord remains ſtill heavy upon him, and how the Lord will deal with him we know not, but muſt leave the iſſue to God, deſiring if it be his will, he may find forgiveneſs of his ſin, and may lay down his head in peace with the Lord.</p>
+            </postscript>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:97764:3"/>
+            <!-- PDF PAGE 30 -->
+         </div>
+      </body>
+   </text>
+</TEI>
